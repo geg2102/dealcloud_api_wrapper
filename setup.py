@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='dealcloud_api_wrapper',
-    version='0.0.1',    
+    version='0.0.2',    
     description='A python wrapper for easily interacting with the Dealcloud REST API.',
     long_description=README,
     long_description_content_type="text/markdown",
