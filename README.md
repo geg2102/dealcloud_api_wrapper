@@ -6,7 +6,7 @@ This package provides a simple wrapper for interacting with the DealCloud REST A
 
 The package can be installed through `pip`:
 ```
-pip install dealcloud_api_wrapper
+pip install dealcloud-api-wrapper
 ```
 
 The package depends on `requests`, `requests_oauthlib`, and `oauthlib`.

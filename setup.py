@@ -6,8 +6,8 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name='dealcloud_api_wrapper',
-    version='0.0.2',    
+    name='dealcloud-api-wrapper',
+    version='0.0.4',    
     description='A python wrapper for easily interacting with the Dealcloud REST API.',
     long_description=README,
     long_description_content_type="text/markdown",
