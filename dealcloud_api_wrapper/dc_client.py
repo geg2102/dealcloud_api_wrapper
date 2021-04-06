@@ -1,8 +1,8 @@
 import requests
 from requests_oauthlib import OAuth2Session
 from oauthlib.oauth2 import BackendApplicationClient
-import dc_schema
-import dc_data
+from dealcloud_api_wrapper import dc_schema
+from dealcloud_api_wrapper import dc_data
 from datetime import datetime, timedelta
 import time
 
